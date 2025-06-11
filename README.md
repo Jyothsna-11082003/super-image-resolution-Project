@@ -1,4 +1,4 @@
-Super-image-resolution
+**Super-image-resolution**
 Super-Resolution Image Enhancement using Deep Learning This project focuses on enhancing the resolution of low-quality images using deep learning techniques. By leveraging convolutional neural networks (CNNs) and popular frameworks like TensorFlow and OpenCV, this model intelligently reconstructs high-resolution versions of input images, recovering lost details and improving overall clarity. The solution is suitable for applications in medical imaging, satellite imagery, security footage enhancement, and more.
 
 🔍 Key Features
